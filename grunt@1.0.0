@@ -1,0 +1,26 @@
+Running "watch" task
+Waiting...
+>> File "src/styles/main.less" changed.
+Running "less:development" (less) task
+>> 1 stylesheet created.
+
+Done.
+Completed in 0.232s at Sun Jul 12 2026 11:10:09 GMT+0100 (Western European Summer Time) - Waiting...
+>> File "src/styles/main.less" changed.
+Running "less:development" (less) task
+>> 1 stylesheet created.
+
+Done.
+Completed in 0.253s at Sun Jul 12 2026 11:53:53 GMT+0100 (Western European Summer Time) - Waiting...
+>> File "src/styles/main.less" changed.
+Running "less:development" (less) task
+>> 1 stylesheet created.
+
+Done.
+Completed in 0.250s at Sun Jul 12 2026 11:58:44 GMT+0100 (Western European Summer Time) - Waiting...
+>> File "src/styles/main.less" changed.
+Running "less:development" (less) task
+>> 1 stylesheet created.
+
+Done.
+Completed in 0.256s at Sun Jul 12 2026 11:58:48 GMT+0100 (Western European Summer Time) - Waiting...

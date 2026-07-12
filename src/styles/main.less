@@ -1,0 +1,67 @@
+@fontePrincipal: 'Roboto', sans-serif;
+@fonteDoTitulo: 'Changa One', cursive;
+@corDeFundo:#51A3A3;
+@corDoTexto: #C3E991;
+@corDoTitulo: #CB904D;
+@corTextoDoBotao: #DFCC74; 
+@corDoBotao: #CB904D;
+
+
+body {
+    background-color: @corDeFundo;
+    font-family: @fontePrincipal;
+    color: @corDoTexto;
+}
+
+h1 {
+    font-family: @fonteDoTitulo;
+    font-size: 3em;
+}
+
+main {
+max-width: 960px;
+width: 100%;
+margin: 0 auto;
+font-size: 2em;
+text-align: center;
+}
+
+button {
+    padding: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-top: 16px;
+    border-radius: 8px;
+    background-color: @corDoBotao;
+    color: @corTextoDoBotao;
+    font-family: @fontePrincipal; 
+    border: none;
+}
+
+input {
+    display: block;
+    margin: 16px auto 0;
+    font-size: 2em;
+    max-width: 120px;
+    border: none;
+    background-color: transparent;
+    text-align: center;
+    color: #DFCC74;
+    border: 4px solid #C3E991;
+    border-radius: 15px;
+}
+
+.resultado {
+    padding: 16px;
+    margin-top: 120px;
+    border: 3px dotted #C3E991;
+    display: none;
+s
+    span {
+        font-weight: bold;
+        font-size: 3em;
+        display: block;
+
+    }
+}
