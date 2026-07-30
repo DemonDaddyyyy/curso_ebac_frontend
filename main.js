@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     const res = await fetch('https://api.github.com/users/DemonDaddyyyy');
 
     if (!res.ok) {
-      throw new Error('Erro ao buscar usuário.');
+      throw new Error('Ups...');
     }
 
     const json = await res.json();
